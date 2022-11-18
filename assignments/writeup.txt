@@ -1,0 +1,32 @@
+In this course ive learnt basic linux commands, little bit of shell scripting and kernel coding and operations tracing and a lot of fun commands that ive looked up and tried on my own!
+
+cheat sheet for linux commands:
+* mkdir <dirname>- makes directory
+* cd <dirname>  - directs to current directory
+* ls   - lists files
+* chmod +x <filename> - gives permission to execute
+* ./<filename>   - runs file
+* rm filename   - deletes file
+*htop
+*bptop
+*tree
+*pwd
+*rmdir
+*
+*
+*
+*
+fun stuff:
+* sl    - shows this cute train moving across the terminal window
+* cowsay    - shows a cow saying the text typed
+* cmatrix    - displays cool hacker-like stuff 
+* lolcat    - used, with cowsay, cmatrix,sl etc to make it rainbow colored
+* espeak   - the text is read out by a computer voice
+* oneko   - cute cat follows the pointer around
+* xeyes   - creepy set of eyes track where ur pointer is going
+* banner   - writes  a banner
+* fortune   - randomly generates a fortune
+
+
+
+
